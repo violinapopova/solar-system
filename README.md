@@ -1,7 +1,5 @@
 # Our Solar System
 
-An interactive solar system visualization built with vanilla HTML, CSS, and Canvas — no dependencies.
-
 ## Features
 
 ### Animation
